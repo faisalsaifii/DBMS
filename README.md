@@ -11,7 +11,7 @@
 ### What is DBMS?
 
 - Software used to manage database
-- Example, MySQL (Commercial Database)
+- Example, MySQL & Oracle (Commercial DB)
 - Provides interface to perform operations like:
   - Creation of Database
   - Storage of Data
@@ -83,3 +83,16 @@
 ## Unit 4 Transaction Processing Unit
 
 ## Unit 5 Concurrency Control Techniques
+
+### Oracle
+
+### SQL Plus
+
+- Front end tools for Oracle
+- Looks similar to DOS
+- White background like Notepad
+- Allows typing in our statements
+
+### SQL Net
+
+### SQL Loader
