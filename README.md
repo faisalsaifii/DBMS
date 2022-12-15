@@ -59,6 +59,16 @@
 | Attribute | Minimal set of super key | Minimal set of attributes that uniquely identifies rows in a relation |
 | Can be null | Can be null | Cannot be null |
 
+### Generalisation
+
+- Process of combination of 2 lower level entities to form higher level entity
+- Bottom up approach
+- Used to emphasise similarities among lower level entity sets & to hide the differences
+
+### Specialization
+
+### Aggregation
+
 ## Unit 2 Relational Data Model
 
 ## Unit 3 Database Design and Normalisation
