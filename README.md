@@ -1,7 +1,7 @@
 # DataBase Management System
 
 - [Unit 1 Introduction](./README.md/#unit-1-introduction)
-- [Unit 2 Relational Data Model](./README.md#unit-2-:-relational-data-model)
+- [Unit 2 Relational Data Model](./README.md#unit-2-relational-data-model)
 - [Unit 3 Database Design and Normalisation](./README.md#unit-3-database-design-and-normalisation)
 - [Unit 4 Transaction Processing Unit](./README.md#unit-4-transaction-processing-unit)
 - [Unit 5 Concurrency Control Techniques](./README.md#unit-5-concurrency-control-techniques)
