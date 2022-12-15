@@ -71,6 +71,13 @@
 
 ## Unit 2 Relational Data Model
 
+### Relational Model
+
+1. **Collection of Conceptual tool For describing data, data relationships, data semantics and consistency constraints.**
+2. **Primary data model for commercial data processing applications.**
+3. **uses collection of tables to represent both data and the relationships among those data.**
+4. **Each table has multiple columns and each column has a unique name.**
+
 ## Unit 3 Database Design and Normalisation
 
 ## Unit 4 Transaction Processing Unit
